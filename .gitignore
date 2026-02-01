@@ -1,0 +1,10 @@
+/build/
+/distrib/
+/firmwares/*
+/venv/
+llext-edk/
+cflags.txt
+cxxflags.txt
+includes.txt
+syms-dynamic.ld
+syms-static.ld
